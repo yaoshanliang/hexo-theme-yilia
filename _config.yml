@@ -27,7 +27,7 @@ root:
 # Content
 excerpt_link: more
 fancybox: true
-mathjax: true
+# mathjax: true
 
 # 是否开启动画效果
 animate: true
@@ -36,8 +36,9 @@ animate: true
 open_in_new: false
 
 # Miscellaneous
-google_analytics: ''
-favicon: /avatar.jpg
+# google_analytics:
+baidu_analytics: '5205380'
+# favicon: /avatar.jpg
 
 #你的头像url
 avatar: /avatar.jpg
