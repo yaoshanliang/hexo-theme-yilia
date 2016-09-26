@@ -1,8 +1,8 @@
 # Header
 
 menu:
-  # 主页: /
-  # 随笔: /tags/随笔
+  用户中心: http://demo.ucenter.szjlxh.com
+  开放平台: http://iat.net.cn/ucenter-open/
 
 # SubNav
 subnav:
@@ -63,10 +63,11 @@ smart_menu:
   aboutme: 'About'
 
 friends:
+  green: http://limaolong.cn/
+  huanming: http://wanghuanming.com/
   kaiyao: http://sukai.me/
   may: http://maywanting.wang/
   mike: http://mikecoder.cn/
-  wanghuanming: http://wanghuanming.com
   zale: http://zalezone.cn/
 
 aboutme: Just a beginner.<br /><a href='https://github.com/yaoshanliang/about' target='_blank'>profile</a>
